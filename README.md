@@ -55,8 +55,6 @@ Sua missão é desenvolver alguns testes automatizados para o aplicativo Sunflow
 
 # Envio do Desafio
 
-# Envio do Desafio
-
  Você deve disponibilizar seu código no Github e manter o repositório como privado. Quando finalizar, favor entrar em contato com a sua recrutadora, para disponibilizarmos os usuários que deverão possuir acesso para realizar a avaliação.
 
 O repositório deve ser facilmente executável! E lembre-se, a organização e o nível de detalhamento da entrega serão cruciais nesta avaliação!
